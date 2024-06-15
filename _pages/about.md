@@ -1,12 +1,13 @@
 ---
 permalink: /
-author_profile: false
+title: 
+author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Academic Experience:
+**Academic Experience**:
 ======
 
 - 2024.05- 南京大学工程管理学院 准聘副教授
@@ -17,7 +18,7 @@ Academic Experience:
 - 2015.11-2016.10 多伦多大学Rotman管理学院 国家留学基金委公派联合培养博士
 - 2006.09-2010.07 云南大学数学与统计学院 数学与应用数学 学士
 
-Research Interests:
+**Research Interests**:
 ======
 
 收益管理、排队博弈、供应链管理.
