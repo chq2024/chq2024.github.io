@@ -1,11 +1,11 @@
-<!-- ---
+---
 permalink: /
 title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
---- -->
+---
 
 - 2024.05- 南京大学工程管理学院 准聘副教授
 - 2018.08-2024.04 南京大学工程管理学院 助理研究员
