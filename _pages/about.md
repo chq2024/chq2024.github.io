@@ -5,7 +5,6 @@ author_profile: true
 
 ---
 
-**Academic Experience**:
 ======
 
 - 2024.05- 南京大学工程管理学院 准聘副教授
