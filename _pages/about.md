@@ -17,7 +17,7 @@ My research interests include revenue management, queueing games, and supply cha
 **Education**:
 ======
 - 2011.09-2017.07 Ph.D. in Operations Research and Control Theory, Academy of Mathematics and Systems Science, Chinese Academy of Sciences
-- 2015.11-2016.10 Joint Ph.D. Student funded by the China Scholarship Council, Rotman School of Management, University of Toronto
+- 2015.11-2016.10 Visiting Ph.D. Student funded by the China Scholarship Council, Rotman School of Management, University of Toronto
 - 2006.09-2010.07 B.S. in Mathematics and Applied Mathematics, School of Mathematics and Statistics, Yunnan University
 
 **Research Interests**:
