@@ -7,7 +7,7 @@ author_profile: true
 I am an Associate Professor (without tenure) at the School of Management and Engineering, Nanjing University. I received Ph.D. from the Academy of Mathematics and Systems Science at the Chinese Academy of Sciences. 
 My research interests include revenue management, queueing games, and supply chain management. 
 
-**Career**:
+**Experience**:
 ======
 - 2024.05- Associate Professor (without tenure), School of Management and Engineering, Nanjing University
 - 2018.08-2024.04 Assistant Researcher, School of Management and Engineering, Nanjing University
@@ -25,6 +25,12 @@ My research interests include revenue management, queueing games, and supply cha
 
 Revenue Management, Queueing Games, Supply Chain Management
 
-**Call for Students**:
+**HONORS**:
 ======
-Undergraduate students who are interested in joining my research group or applying for a master's or Ph.D. program, please contact me chq@nju.edu.cn.
+
+2023 Best OM Paper in M&SOM Award, Finalist
+Best Paper Award at the Fourth National Conference on Supply Chain and Operations Management, Third Prize
+Outstanding Paper Award for Young Faculty at the 15th International Workshop on Behavioral Operations Management
+
+
+
