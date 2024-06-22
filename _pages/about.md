@@ -29,9 +29,7 @@ Revenue Management, Queueing Games, Supply Chain Management
 ======
 
 - 2023 Best OM Paper in M&SOM Award, Finalist
-
 - Best Paper Award at the Fourth National Conference on Supply Chain and Operations Management, Third Prize
-
 - Outstanding Paper Award for Young Faculty at the 15th International Workshop on Behavioral Operations Management
 
 
