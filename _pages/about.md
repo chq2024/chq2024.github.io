@@ -4,12 +4,12 @@ title:
 author_profile: true
 
 ---
-I am an Associate Professor (without tenure) at the School of Management and Engineering, Nanjing University. I received Ph.D. from the Academy of Mathematics and Systems Science at the Chinese Academy of Sciences. 
+I am an Associate Professor at the School of Management and Engineering, Nanjing University. I received Ph.D. from the Academy of Mathematics and Systems Science at the Chinese Academy of Sciences. 
 My research interests include revenue management, queueing games, and supply chain management. 
 
 **Experience**:
 ======
-- 2024.05- Associate Professor (without tenure), School of Management and Engineering, Nanjing University
+- 2024.05- Associate Professor, School of Management and Engineering, Nanjing University
 - 2018.08-2024.04 Assistant Researcher, School of Management and Engineering, Nanjing University
 - 2017.11-2019.05 Post-Doctoral Researcher, Department of Logistics and Maritime Studies, Hong Kong Polytechnic University
 - 2016.12-2017.10 Research Assistant, Department of Decision Sciences and Managerial Economics, Chinese University of Hong Kong
