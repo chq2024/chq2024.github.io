@@ -11,7 +11,7 @@ redirect_from:
 {% include base_path %}
 
 ### Publications (\*corresponding author)
-[1]. **Hongqiao Chen**, Ming Hu, Jiahua Wu. Intertemporal Price Discrimination via Randomized Promotions, **Manufacturing & Service Operations Management**, 25(3):1176-1194, 2023.<br/><br/>
+[1]. **Hongqiao Chen\***, Ming Hu, Jiahua Wu. Intertemporal Price Discrimination via Randomized Promotions, **Manufacturing & Service Operations Management**, 25(3):1176-1194, 2023.<br/><br/>
 [2]. **Hongqiao Chen**, Ming Hu, Georgia Perakis. Distribution-Free Pricing, **Manufacturing & Service Operations Management**, 24(4):1939–1958, 2022.<br/><br/>
 [3]. **Hongqiao Chen**, Ming Hu, Jingchen Liu, Yaniv Ravid. Ups and Downs in Experience Design, **Production and Operations Management**, 33(9): 1895-1911, 2024.<br/><br/>
 [4]. **Hongqiao Chen**, Ying-Ju Chen, Yang Li, Xiaoquan (Michael) Zhang, Sean X. Zhou. Digital Goods Reselling: Implications on Cannibalization and Price Discrimination, **Production and Operations Management**, forthcoming.<br/><br/>
