@@ -24,6 +24,6 @@ redirect_from:
 [11]. 张继红，丁晓松，**陈虹桥**，能源回购补偿机制下基于无限阶段折扣准则的最优生产与库存策略，**运筹与管理**，5:109-119, 2014.<br/><br/>
 
 ### Manuscripts under Review/Working Papers
-[1]. **Hongqiao Chen**, Ming Hu, Jing Peng. Socially Responsible Pricing. Major Revision at **Operations Research**. Available at SSRN: https://ssrn.com/abstract=4490937.<br/><br/>
-[2]. **Hongqiao Chen**, Pengfei Guo, Qingying Li, Yulan Wang. Competition between Service Platforms: Myopic vs. Farsighted Stability. Major Revision at **Manufacturing & Service Operations Management**. Available at SSRN: https://ssrn.com/abstract=4667672.<br/><br/>
-[3]. **Hongqiao Chen**, Yihua He, Jin Qi, Lianmin Zhang. Distributionally Robust Pricing with Asymmetric Information. Under review. Available at SSRN: https://ssrn.com/abstract=4365395.<br/><br/>
+[1]. **Hongqiao Chen**, Ming Hu, Jing Peng. Socially Responsible Pricing. Major Revision at **Operations Research**. Available at SSRN: [https://ssrn.com/abstract=4490937](https://ssrn.com/abstract=4490937).<br/><br/>
+[2]. **Hongqiao Chen**, Pengfei Guo, Qingying Li, Yulan Wang. Competition between Service Platforms: Myopic vs. Farsighted Stability. Major Revision at **Manufacturing & Service Operations Management**. Available at SSRN: [https://ssrn.com/abstract=4667672](https://ssrn.com/abstract=4667672).<br/><br/>
+[3]. **Hongqiao Chen**, Yihua He, Jin Qi, Lianmin Zhang. Distributionally Robust Pricing with Asymmetric Information. Under review. Available at SSRN: [https://ssrn.com/abstract=4365395](https://ssrn.com/abstract=4365395).<br/><br/>
