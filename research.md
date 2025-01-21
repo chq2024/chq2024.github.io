@@ -14,7 +14,7 @@ redirect_from:
 [1]. **Hongqiao Chen\***, Ming Hu, Jiahua Wu. Intertemporal Price Discrimination via Randomized Promotions, **Manufacturing & Service Operations Management**, 25(3):1176-1194, 2023.<br/><br/>
 [2]. **Hongqiao Chen**, Ming Hu, Georgia Perakis. Distribution-Free Pricing, **Manufacturing & Service Operations Management**, 24(4):1939–1958, 2022.<br/><br/>
 [3]. **Hongqiao Chen**, Ming Hu, Jingchen Liu, Yaniv Ravid. Ups and Downs in Experience Design, **Production and Operations Management**, 33(9): 1895-1911, 2024.<br/><br/>
-[4]. **Hongqiao Chen**, Ying-Ju Chen, Yang Li, Xiaoquan (Michael) Zhang, Sean X. Zhou. Digital Goods Reselling: Implications on Cannibalization and Price Discrimination, **Production and Operations Management**, forthcoming.<br/><br/>
+[4]. **Hongqiao Chen**, Ying-Ju Chen, Yang Li, Xiaoquan (Michael) Zhang, Sean X. Zhou. Digital Goods Reselling: Implications on Cannibalization and Price Discrimination, **Production and Operations Management**, published online: [https://journals.sagepub.com/doi/abs/10.1177/10591478241305333](https://journals.sagepub.com/doi/abs/10.1177/10591478241305333).<br/><br/>
 [5]. Rui Mao, **Hongqiao Chen\***, Houcai Shen. Cooperation Strategies with Third-Party Platform: E-tailer and Manufacturer Perspectives, **Naval Research Logistics**, 70(8):878-896, 2023.<br/><br/>
 [6]. Lei Guan, **Hongqiao Chen\***, Haiwen Ma, Lianmin Zhang. Optimal Group-buying Price Strategy Considering the Information Sharing of the Seller and Buyers in Social E-commerce, **International Transactions in Operational Research**，29(3):1769-1790, 2022.<br/><br/>
 [7]. **陈虹桥**，沈厚才，于明汇，章雪，张莲民. 软件交付模式和定价策略研究：SWS或SaaS, **管理工程学报**, 37(5): 200-216, 2023.<br/><br/>
