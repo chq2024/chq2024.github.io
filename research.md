@@ -26,4 +26,4 @@ redirect_from:
 ### Manuscripts under Review/Working Papers
 [1]. **Hongqiao Chen**, Ming Hu, Jing Peng. Socially Responsible Pricing. Major Revision at **Operations Research**. Available at SSRN: [https://ssrn.com/abstract=4490937](https://ssrn.com/abstract=4490937).<br/><br/>
 [2]. **Hongqiao Chen**, Pengfei Guo, Qingying Li, Yulan Wang. Competition between Service Platforms: Myopic vs. Farsighted Stability. Major Revision at **Manufacturing & Service Operations Management**. Available at SSRN: [https://ssrn.com/abstract=4667672](https://ssrn.com/abstract=4667672).<br/><br/>
-[3]. **Hongqiao Chen**, Yihua He, Jin Qi, Lianmin Zhang. Distributionally Robust Pricing with Asymmetric Information. Major Revision at **Production and Operations Management**. Available at SSRN: [https://ssrn.com/abstract=4365395](https://ssrn.com/abstract=4365395).<br/><br/>
+[3]. **Hongqiao Chen**, Yihua He, Jin Qi, Lianmin Zhang. Robust Pricing with Asymmetric Distributional Information in Valuation. Major Revision at **Production and Operations Management**. Available at SSRN: [https://ssrn.com/abstract=4365395](https://ssrn.com/abstract=4365395).<br/><br/>
