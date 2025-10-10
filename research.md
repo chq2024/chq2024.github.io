@@ -15,7 +15,7 @@ redirect_from:
 [2]. **Hongqiao Chen\***, Ming Hu, Jiahua Wu. Intertemporal Price Discrimination via Randomized Promotions, **Manufacturing & Service Operations Management**, 25(3):1176-1194, 2023.<br/><br/>
 [3]. **Hongqiao Chen**, Ming Hu, Jingchen Liu, Yaniv Ravid. Ups and Downs in Experience Design, **Production and Operations Management**, 33(9): 1895-1911, 2024.<br/><br/>
 [4]. **Hongqiao Chen**, Ying-Ju Chen, Yang Li, Xiaoquan (Michael) Zhang, Sean X. Zhou. Digital Goods Reselling: Implications on Cannibalization and Price Discrimination, **Production and Operations Management**, 34(7):1725-1742，2025.<br/><br/>
-[5]. **Hongqiao Chen**, Yihua He, Jin Qi, Lianmin Zhang. Robust Pricing with Asymmetric Distributional Information in Valuation. **Production and Operations Management**, forthcoming.
+[5]. **Hongqiao Chen**, Yihua He, Jin Qi, Lianmin Zhang. Robust Pricing with Asymmetric Distributional Information in Valuation. **Production and Operations Management**, forthcoming.<br/><br/>
 [6]. Rui Mao, **Hongqiao Chen\***, Houcai Shen. Cooperation Strategies with Third-Party Platform: E-tailer and Manufacturer Perspectives, **Naval Research Logistics**, 70(8):878-896, 2023.<br/><br/>
 [7]. Rui Mao, **Hongqiao Chen\***, Houcai Shen, Lianmin Zhang. How Pricing Interacts with Return Insurance in Dual-channel Retailing, **IEEE Transactions on Engineering Management**, 72:966-979，2025.<br/><br/>
 [8]. Ruiqi Zhou, **Hongqiao Chen\***, Houcai Shen. The Last Mile Delivery Strategy: Relay Station Service or Delivery at Home? **International Transactions in Operational Research**, 33(1):327-358, 2026.<br/><br/>
