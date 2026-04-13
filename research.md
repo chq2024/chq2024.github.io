@@ -28,6 +28,6 @@ redirect_from:
 
 ### Manuscripts under Review/Working Papers
 [1]. **Hongqiao Chen**, Ming Hu, Jing Peng. Socially Responsible Pricing. Major Revision at **Operations Research**. Available at SSRN: [https://ssrn.com/abstract=4490937](https://ssrn.com/abstract=4490937).<br/><br/>
-[2]. **Hongqiao Chen**, Pengfei Guo, Qingying Li, Yulan Wang. Competition between Service Platforms: Myopic vs. Farsighted Stability. Minor Revision at **Manufacturing & Service Operations Management**. Available at SSRN: [https://ssrn.com/abstract=4667672](https://ssrn.com/abstract=4667672).<br/><br/>
+[2]. **Hongqiao Chen**, Pengfei Guo, Qingying Li, Yulan Wang. Farsighted Stability in Service Platform Competition. Minor Revision at **Manufacturing & Service Operations Management**. Available at SSRN: [https://ssrn.com/abstract=4667672](https://ssrn.com/abstract=4667672).<br/><br/>
 [3]. **Hongqiao Chen**, Ming Hu, Wenbin Wang, Yaniv Ravid. Yielding to the Weather: How Climate Change Impacts Planting Decisions and Consumers. Major Revision at **Manufacturing & Service Operations Management**.  Available at SSRN: [https://ssrn.com/abstract=5088625](https://ssrn.com/abstract=5088625).<br/><br/>
 [4]. Shiyu Song, **Hongqiao Chen**, Houcai Shen, Caihua Chen. Inventory Control with Quantity Dependent Ordering Costs. Major Revision at **Production and Operations Management**. <br/><br/>
