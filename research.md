@@ -15,7 +15,7 @@ redirect_from:
 [2]. **Hongqiao Chen\***, Ming Hu, Jiahua Wu. Intertemporal Price Discrimination via Randomized Promotions, **Manufacturing & Service Operations Management**, 25(3):1176-1194, 2023.<br/><br/>
 [3]. **Hongqiao Chen**, Ming Hu, Jingchen Liu, Yaniv Ravid. Ups and Downs in Experience Design, **Production and Operations Management**, 33(9): 1895-1911, 2024.<br/><br/>
 [4]. **Hongqiao Chen**, Ying-Ju Chen, Yang Li, Xiaoquan (Michael) Zhang, Sean X. Zhou. Digital Goods Reselling: Implications on Cannibalization and Price Discrimination, **Production and Operations Management**, 34(7):1725-1742，2025.<br/><br/>
-[5]. **Hongqiao Chen**, Yihua He, Jin Qi, Lianmin Zhang. Robust Pricing with Asymmetric Distributional Information in Valuation. **Production and Operations Management**, forthcoming.<br/><br/>
+[5]. **Hongqiao Chen**, Yihua He, Jin Qi, Lianmin Zhang. Robust Pricing with Asymmetric Distributional Information in Valuation. **Production and Operations Management**, Published Online: https://doi.org/10.1177/10591478251392709.<br/><br/>
 [6]. Rui Mao, **Hongqiao Chen\***, Houcai Shen. Cooperation Strategies with Third-Party Platform: E-tailer and Manufacturer Perspectives, **Naval Research Logistics**, 70(8):878-896, 2023.<br/><br/>
 [7]. Rui Mao, **Hongqiao Chen\***, Houcai Shen, Lianmin Zhang. How Pricing Interacts with Return Insurance in Dual-channel Retailing, **IEEE Transactions on Engineering Management**, 72:966-979，2025.<br/><br/>
 [8]. Ruiqi Zhou, **Hongqiao Chen\***, Houcai Shen. The Last Mile Delivery Strategy: Relay Station Service or Delivery at Home? **International Transactions in Operational Research**, 33(1):327-358, 2026.<br/><br/>
@@ -28,5 +28,6 @@ redirect_from:
 
 ### Manuscripts under Review/Working Papers
 [1]. **Hongqiao Chen**, Ming Hu, Jing Peng. Socially Responsible Pricing. Major Revision at **Operations Research**. Available at SSRN: [https://ssrn.com/abstract=4490937](https://ssrn.com/abstract=4490937).<br/><br/>
-[2]. **Hongqiao Chen**, Pengfei Guo, Qingying Li, Yulan Wang. Competition between Service Platforms: Myopic vs. Farsighted Stability. Major Revision at **Manufacturing & Service Operations Management**. Available at SSRN: [https://ssrn.com/abstract=4667672](https://ssrn.com/abstract=4667672).<br/><br/>
+[2]. **Hongqiao Chen**, Pengfei Guo, Qingying Li, Yulan Wang. Competition between Service Platforms: Myopic vs. Farsighted Stability. Minor Revision at **Manufacturing & Service Operations Management**. Available at SSRN: [https://ssrn.com/abstract=4667672](https://ssrn.com/abstract=4667672).<br/><br/>
 [3]. **Hongqiao Chen**, Ming Hu, Wenbin Wang, Yaniv Ravid. Yielding to the Weather: How Climate Change Impacts Planting Decisions and Consumers. Major Revision at **Manufacturing & Service Operations Management**.  Available at SSRN: [https://ssrn.com/abstract=5088625](https://ssrn.com/abstract=5088625).<br/><br/>
+[4]. Shiyu Song, **Hongqiao Chen**, Houcai Shen, Caihua Chen. Inventory Control with Quantity Dependent Ordering Costs. Major Revision at **Production and Operations Management**. <br/><br/>
